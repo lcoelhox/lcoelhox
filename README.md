@@ -1,4 +1,4 @@
-### Lucas Coelho! 
+# Lucas Coelho
 
 - ⚡ "O Porquê" - apaixonado por tecnologia desde criança.
 - 🔭 "Onde estou" - Saindo da carrerira de comunicação e migrando para desenvolvimento de software.
