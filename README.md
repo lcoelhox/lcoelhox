@@ -1,8 +1,8 @@
-### Ola sou Lucas Coelho! 
+### Lucas Coelho! 
 
-- 🔭 Hoje trabalho com desenvolvimento de software
-- 🌱 Estudando NodeJs e MySQL
-- Contate-me por l_coelhox@hotmail.com. 
+- ⚡ "O Porquê" - apaixonado por tecnologia desde criança.
+- 🔭 "Onde estou" - Saindo da carrerira de comunicação e migrando para desenvolvimento de software.
+- 🌱 Contate-me por l_coelhox@hotmail.com.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/l-coelhox/">
