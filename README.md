@@ -1,7 +1,7 @@
-# Lucas Coelho
+# Lucas Coelho dos Santos Reis
 
-- :green_heart: "O Porquê" - apaixonado por tecnologia desde criança.
-- :running: "Onde estou" - Saindo da carrerira de comunicação e migrando para desenvolvimento de software.
+- :green_heart: "O Porquê" - Apaixonado por tecnologia desde criança.
+- :running: "O Onde" - Analista de relacionamento em transição de carreira para Desenvolvedor Web.
 - :grin: Contate-me por l_coelhox@hotmail.com.
 
 <div align="center">
@@ -21,6 +21,7 @@
   <img align="center" alt="Coelho-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Coelho-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Coelho-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+    <img align="center" alt="Coelho-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
    ##
    <div>
