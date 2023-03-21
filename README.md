@@ -2,7 +2,7 @@
 
 - :green_heart: "O Porquê" - Apaixonado por tecnologia desde criança.
 - :running: "O Onde" - Analista de relacionamento em transição de carreira para Desenvolvedor Web.
-- :green_book: "Estudando" - Atualmente estou estudando C# e Python.
+- :green_book: "Estudando" - Atualmente estou estudando .NET e Python.
 - :grin: Contate-me por l_coelhox@hotmail.com.
 
 <div align="center">
