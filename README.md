@@ -1,7 +1,7 @@
 # Lucas Coelho dos Santos Reis
 
 - :green_heart: "O Porquê" - Apaixonado por tecnologia desde criança.
-- :running: "O Onde" - Analista de relacionamento em transição de carreira para Desenvolvedor Web.
+- :running: "O Onde" - Atualmente atuo como Desenvolvedor FullStack.
 - :microscope: "O Lema" - "Empurre os limites da tecnologia para alcançar o impossível".
 - :green_book: "Estudando" - Atualmente estou estudando .NET e Python.
 - :grin: Contate-me por l_coelhox@hotmail.com.
