@@ -1,4 +1,8 @@
 # Lucas Coelho dos Santos Reis
+
+- :green_heart: "O Porquê" - Apaixonado por tecnologia desde criança.
+- :microscope: "O Lema" - "Empurre os limites da tecnologia para alcançar o impossível".
+
 <div align="center">
   <a href="https://www.linkedin.com/in/l-coelhox/">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcoelhox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
